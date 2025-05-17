@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🚀 Ahmad Fauzan Abdurrohman
 
-<!--
-**vwzn/vwzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> _“Code. Coffee. Consistency.”_
 
-Here are some ideas to get you started:
+Hi, I’m **Ahmad Fauzan Abdurrohman** – a passionate web developer who thrives in turning ideas into code.  
+I love building clean, responsive UIs and writing elegant backend logic.  
+My mission? To craft experiences that not only work — but *wow*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+*JavaScript is my weapon of choice.*  
+
+---
+
+## 🧠 Tech Stack
+
+```js
+const fauzan = {
+  favoriteLanguage: "JavaScript",
+  frontend: ["React", "Tailwind CSS", "HTML5", "CSS3"],
+  backend: ["Node.js", "Express", "PHP"],
+  database: ["MySQL", "MongoDB (newbie!)"],
+  tools: ["VSCode", "Postman", "GitHub"],
+  currentlyLearning: ["React.js", "MongoDB", "Cybersecurity"]
+};
