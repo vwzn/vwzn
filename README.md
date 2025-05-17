@@ -52,5 +52,4 @@ I treat **debugging** like a puzzle, **syntax errors** like riddles, and **JavaS
 MIT © 2025 Ahmad Fauzan Abdurrohman
 *Code is art, and I’m just an artist with a console.*
 
-```
 
