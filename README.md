@@ -54,6 +54,3 @@ MIT © 2025 Ahmad Fauzan Abdurrohman
 
 ```
 
----
-
-```
