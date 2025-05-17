@@ -1,3 +1,4 @@
+
 # ⚡ Ahmad Fauzan Abdurrohman
 
 > _“Code. Coffee. Consistency.”_  
@@ -25,3 +26,34 @@ const fauzan = {
   tools: ["VSCode", "Postman", "Git & GitHub"],
   currentlyLearning: ["React.js", "MongoDB", "Cybersecurity 🛡️"]
 };
+````
+
+> ⚙️ I ship code that’s clean, scalable, and smells like productivity.
+
+---
+
+
+## 📊 GitHub Insights
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vwzn&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=171717&card_width=600" />
+
+---
+
+
+## 🧪 Fun Fact
+
+I treat **debugging** like a puzzle, **syntax errors** like riddles, and **JavaScript** like jazz —
+*Improvised, expressive, and sometimes chaotic — but always powerful.*
+
+---
+
+## 📜 License
+
+MIT © 2025 Ahmad Fauzan Abdurrohman
+*Code is art, and I’m just an artist with a console.*
+
+```
+
+---
+
+```
