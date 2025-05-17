@@ -1,24 +1,27 @@
-# 🚀 Ahmad Fauzan Abdurrohman
+# ⚡ Ahmad Fauzan Abdurrohman
 
-> _“Code. Coffee. Consistency.”_
+> _“Code. Coffee. Consistency.”_  
+> *Turning curiosity into code, and passion into pixels.*
 
-Hi, I’m **Ahmad Fauzan Abdurrohman** – a passionate web developer who thrives in turning ideas into code.  
-I love building clean, responsive UIs and writing elegant backend logic.  
-My mission? To craft experiences that not only work — but *wow*.
+I’m **Ahmad Fauzan**, a 22-year-old developer who breathes in problems and exhales solutions.  
+Obsessed with building digital experiences that are not just functional — but unforgettable.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-*JavaScript is my weapon of choice.*  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+> 💡 *“JavaScript isn’t just a language. It’s a canvas for expression.”*
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Arsenal
 
 ```js
 const fauzan = {
-  favoriteLanguage: "JavaScript",
+  favoriteLanguage: "JavaScript ⚡",
   frontend: ["React", "Tailwind CSS", "HTML5", "CSS3"],
   backend: ["Node.js", "Express", "PHP"],
-  database: ["MySQL", "MongoDB (newbie!)"],
-  tools: ["VSCode", "Postman", "GitHub"],
-  currentlyLearning: ["React.js", "MongoDB", "Cybersecurity"]
+  database: ["MySQL", "MongoDB (just getting started!)"],
+  tools: ["VSCode", "Postman", "Git & GitHub"],
+  currentlyLearning: ["React.js", "MongoDB", "Cybersecurity 🛡️"]
 };
