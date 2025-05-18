@@ -7,8 +7,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="coding gif"/>
 </div>
+
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=vwzn&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </div> 
----
+
 
 ## 🛠️ Tech Stack Galaxy
 
