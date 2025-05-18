@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="coding gif"/>
 </div>
-
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=vwzn&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </div> 
 ---
 
 ## 🛠️ Tech Stack Galaxy
@@ -51,6 +51,8 @@
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=vwzn&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
+  <img src="https://github-readme-stats.vercel.app/api?username=vwzn&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vwzn&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vwzn&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
@@ -80,6 +82,4 @@ const fauzan = {
     funFact: "I can solve a Rubik's cube while debugging async code"
   }
 };
-
 ```
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=vwzn&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </div> 
