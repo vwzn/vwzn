@@ -1,5 +1,7 @@
-<div justify=center"> 
+<div justify="center"> 
+  
 # ⚡ Ahmad Fauzan Abdurrohman 
+
 <div align="right"><img src="https://komarev.com/ghpvc/?username=vwzn&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </div>
 </div>
 <div align="center">
