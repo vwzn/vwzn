@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="coding gif"/>
 </div>
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=vwzn&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </div> 
+
 
 ---
 
@@ -50,7 +50,7 @@
 ## 🎯 GitHub Highlights
 
 <div align="center">
-Show Image
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=vwzn&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vwzn&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" /> 
@@ -63,15 +63,10 @@ Show Image
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vwzn&theme=github_dark&utcOffset=7" alt="Productive Time" /> 
 <!-- Trophy Stats --> 
 <img src="https://github-profile-trophy.vercel.app/?username=vwzn&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /> 
-<!-- Contribution Snake --> 
-<img src="https://raw.githubusercontent.com/vwzn/vwzn/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> 
-<!-- WakaTime Stats (uncomment if you use WakaTime) --> 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vwzn&theme=vision-friendly-dark&hide_border=true" alt="WakaTime Stats" /> 
-<!-- Repository Contributions --> 
-<img src="https://contrib.rocks/image?repo=vwzn/your-main-repo" alt="Contributors" /> 
-<!-- GitHub Profile Views Counter -->
-Show Image
 
+<!-- GitHub Profile Views Counter -->
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=vwzn&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </div> 
+<div/>
 
 ---
 
