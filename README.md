@@ -47,7 +47,7 @@
 
 ---
 
-## 🎯 GitHub Highlights
+## 🎯 GitHub Highlights <img src="https://komarev.com/ghpvc/?username=vwzn&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
 
 <div align="center">
 
@@ -64,8 +64,7 @@
 <!-- Trophy Stats --> 
 <img src="https://github-profile-trophy.vercel.app/?username=vwzn&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /> 
 
-<!-- GitHub Profile Views Counter -->
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=vwzn&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> <div/>
+
 <div/>
 
 
