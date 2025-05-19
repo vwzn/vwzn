@@ -65,31 +65,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=vwzn&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /> 
 
 <!-- GitHub Profile Views Counter -->
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=vwzn&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </div> 
+<img src="https://komarev.com/ghpvc/?username=vwzn&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
 <div/>
 
----
 
-## 🧪 Code Experiments
-
-```javascript
-const fauzan = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "Java", "PHP", "C++"],
-  askMeAbout: ["web dev", "tech", "cybersecurity", "3D web"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Vue", "Next"],
-      css: ["Tailwind", "Sass", "DaisyUI"]
-    },
-    backEnd: {
-      js: ["Node", "Express"],
-      php: ["Laravel"]
-    },
-    databases: ["MySQL", "PostgreSQL"],
-    devOps: ["Docker🐳", "AWS"],
-    currentlyLearning: ["Three.js", "WebGL"],
-    funFact: "I can solve a Rubik's cube while debugging async code"
-  }
-};
-```
