@@ -52,7 +52,24 @@
 <div align="center">
 Show Image
 
-<img src="https://github-readme-stats.vercel.app/api?username=vwzn&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vwzn&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vwzn&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" /> <!-- Additional Statistics --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vwzn&theme=github_dark" alt="Profile Summary" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vwzn&theme=github_dark" alt="Repos per Language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vwzn&theme=github_dark" alt="Most Commit Language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vwzn&theme=github_dark" alt="Stats" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vwzn&theme=github_dark&utcOffset=7" alt="Productive Time" /> <!-- Trophy Stats --> <img src="https://github-profile-trophy.vercel.app/?username=vwzn&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /> <!-- Contribution Snake --> <img src="https://raw.githubusercontent.com/vwzn/vwzn/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> <!-- WakaTime Stats (uncomment if you use WakaTime) --> <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vwzn&theme=vision-friendly-dark&hide_border=true" alt="WakaTime Stats" /> --> <!-- Repository Contributions --> <img src="https://contrib.rocks/image?repo=vwzn/your-main-repo" alt="Contributors" /> <!-- GitHub Profile Views Counter -->
+<img src="https://github-readme-stats.vercel.app/api?username=vwzn&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vwzn&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" /> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vwzn&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" /> 
+<!-- Additional Statistics --> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vwzn&theme=github_dark" alt="Profile Summary" /> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vwzn&theme=github_dark" alt="Repos per Language" /> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vwzn&theme=github_dark" alt="Most Commit Language" /> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vwzn&theme=github_dark" alt="Stats" /> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vwzn&theme=github_dark&utcOffset=7" alt="Productive Time" /> 
+<!-- Trophy Stats --> 
+<img src="https://github-profile-trophy.vercel.app/?username=vwzn&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /> 
+<!-- Contribution Snake --> 
+<img src="https://raw.githubusercontent.com/vwzn/vwzn/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> 
+<!-- WakaTime Stats (uncomment if you use WakaTime) --> 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vwzn&theme=vision-friendly-dark&hide_border=true" alt="WakaTime Stats" /> 
+<!-- Repository Contributions --> 
+<img src="https://contrib.rocks/image?repo=vwzn/your-main-repo" alt="Contributors" /> 
+<!-- GitHub Profile Views Counter -->
 Show Image
 
 
